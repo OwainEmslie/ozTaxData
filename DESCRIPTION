@@ -10,3 +10,4 @@ Description: The ATO has a series of confidentialised sample files of individual
 License: CC0
 LazyData: TRUE
 URL: http://github.com/thmcmahon/superrugby
+RoxygenNote: 6.0.1
