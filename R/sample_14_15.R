@@ -12,7 +12,7 @@
 #' @usage
 #'  data(sample_14_15)
 #'
-#' @format A data frame describing 258,774 taxpayers with 67 variables:
+#' @format A data frame describing 263,339 taxpayers with 66 variables:
 #' \describe{
 #' \item{Ind}{unique identifier. not applicable}
 #' \item{Gender}{Gender (sex). Your sex question. 0 = Male. 1 = Female.}
